@@ -18,4 +18,4 @@ Currently studying Data Science and in search of technological challenges that i
 
 ### Contact me
 
-[email](mailto:jennifer@sanchez-richart.com)
+[Click here for Je_email](mailto:jennifer@sanchez-richart.com)
