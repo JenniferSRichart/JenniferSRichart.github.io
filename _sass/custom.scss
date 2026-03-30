@@ -1,0 +1,26 @@
+/* start custom scss snippet */
+/* Fondo blanco en header y footer */
+.header,
+.footer {
+  background-color: #fff !important; /* blanco */
+}
+
+/* Texto negro en cabecera y navegación */
+.header__brand a,
+.navigation a,
+.footer {
+  color: #000 !important; /* negro */
+}
+
+/* Color del logo SVG (si usa 'fill') */
+.header__brand svg path {
+  fill: #000 !important;
+}
+
+/* Fondo general blanco, sin márgenes ni padding extra */
+body {
+  background-color: #fff !important;
+  margin: 0;
+  padding: 0;
+}
+/* end custom scss snippet */
