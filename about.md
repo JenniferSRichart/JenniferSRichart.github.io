@@ -101,51 +101,41 @@ key: page-about
 </style>
 
 <details>
-  <summary>Análisis de Datos y Visualización</summary>
+  <summary>Business Intelligence y Analítica Estratégica</summary>
   <ul>
-    <li>Power BI: modelado de datos, DAX, visualizaciones</li>
-    <li>Excel avanzado: Power Query, tablas dinámicas, macros</li>
-    <li>Power Automate para flujos de trabajo</li>
-    <li>Visualización con Python: Matplotlib, Seaborn, Plotly, Folium, Streamlit</li>
+    <li>Power BI: modelado de datos, DAX y diseño de dashboards orientados a toma de decisiones</li>
+    <li>Excel avanzado: Power Query, tablas dinámicas y automatización de procesos</li>
+    <li>Transformación de datos en insights accionables para negocio</li>
+    <li>Definición de KPIs y storytelling con datos</li>
   </ul>
 </details>
 
 <details>
-  <summary>Programación y Automatización</summary>
+  <summary>Automatización y Gestión de Datos</summary>
   <ul>
-    <li>Python (pandas, numpy, scikit-learn, openpyxl)</li>
-    <li>SQL (consultas complejas, joins, subconsultas, agregaciones)</li>
-    <li>Bash básico</li>
-    <li>Web scraping: BeautifulSoup, Selenium</li>
-    <li>Consumo de APIs: JSON, XML</li>
+    <li>Power Automate: diseño de flujos para optimización de procesos</li>
+    <li>SQL: consultas complejas, joins, subconsultas y agregaciones</li>
+    <li>Python: manipulación de datos (pandas, numpy) y automatización</li>
+    <li>Integración y limpieza de datos de múltiples fuentes</li>
   </ul>
 </details>
 
 <details>
-  <summary>Ciencia de Datos y Machine Learning</summary>
+  <summary>Análisis Avanzado y Machine Learning</summary>
   <ul>
-    <li>Modelos supervisados: regresión, clasificación, árboles de decisión, Random Forest</li>
-    <li>Modelos no supervisados: K-means, PCA</li>
-    <li>Validación cruzada, GridSearchCV</li>
-    <li>Procesamiento de lenguaje natural (NLP básico)</li>
-    <li>Análisis de series temporales</li>
-    <li>Redes neuronales (introducción a CNN y autoencoders)</li>
+    <li>Modelos supervisados: regresión, clasificación y árboles de decisión</li>
+    <li>Modelos no supervisados: clustering (K-means) y reducción de dimensionalidad (PCA)</li>
+    <li>Validación de modelos y optimización básica</li>
+    <li>Aplicación de analítica predictiva a problemas de negocio</li>
   </ul>
 </details>
 
 <details>
-  <summary>Bases de Datos y Nube</summary>
+  <summary>IA y Nuevas Tecnologías</summary>
   <ul>
-    <li>Gestión y limpieza de datos en SQL Server</li>
-    <li>Introducción a entornos cloud: AWS, Azure, Hadoop y Spark</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Herramientas y Entornos de Desarrollo</summary>
-  <ul>
-    <li>Jupyter Notebooks, PyCharm, Visual Studio Code, Anaconda</li>
-    <li>Control de versiones con Git y GitHub</li>
+    <li>Fundamentos de Inteligencia Artificial y Machine Learning aplicados a negocio</li>
+    <li>Uso de herramientas de IA generativa (ChatGPT, Copilot, etc.)</li>
+    <li>Aplicación de IA para automatización, análisis y generación de contenido</li>
   </ul>
 </details>
 
@@ -153,6 +143,6 @@ key: page-about
   <summary>Idiomas</summary>
   <ul>
     <li>Español: Nativo</li>
-    <li>Inglés: Nivel B2 (EOI – Escuela Oficial de Idiomas)</li>
+    <li>Inglés: Nivel C1</li>
   </ul>
 </details>
