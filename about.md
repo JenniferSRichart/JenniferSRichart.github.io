@@ -195,7 +195,7 @@
   <div class="education-year">2025</div>
   <ul class="education-list">
     <li>
-      <strong>PL-200: Consultor de Power Platform</strong> – Experis Academy (Manpower Group)
+      PL-200: Consultor de Power Platform – Experis Academy (Manpower Group)
       <br><small>Diseño de soluciones empresariales, automatización de procesos y uso de Power Apps, Power Automate y Dataverse</small>
     </li>
   </ul>
@@ -203,7 +203,7 @@
   <div class="education-year">2024</div>
   <ul class="education-list">
     <li>
-      <strong>Máster Online en IA e Innovación</strong> – Founderz  
+      Máster Online en IA e Innovación – Founderz  
       <br><small>Formación en machine learning, IA generativa y aplicación en negocio</small>
     </li>
     <li>
