@@ -86,30 +86,6 @@
   </div>
 </div>
 
-<h3>Certificaciones</h3>
-
-<div class="certification-card">
-  <a href="https://learn.microsoft.com/en-gb/users/jennifersanchezrichart-1821/credentials/certification/azure-ai-fundamentals?tab=credentials-tab" target="_blank">
-    <img src="{{ '/assets/images/IA_Fundamental_Microsoft.png' | relative_url }}" alt="Azure AI Fundamentals">
-  </a>
-
-  <div>
-    <strong>Microsoft Certified: Azure AI Fundamentals</strong><br>
-    Certificación que valida conocimientos básicos de inteligencia artificial, machine learning y servicios de IA en Azure aplicados a negocio.
-  </div>
-</div>
-
-<div class="certification-card">
-  <a href="#" target="_blank">
-    <img src="{{ '/assets/images/PowerBI_Microsoft.png' | relative_url }}" alt="Power BI Data Analyst Associate">
-  </a>
-
-  <div>
-    <strong>Microsoft Certified: Power BI Data Analyst Associate</strong><br>
-    Certificación orientada al análisis de datos con Power BI, incluyendo modelado, visualización y generación de insights para la toma de decisiones.
-  </div>
-</div>
-
 <details>
   <summary>Business Intelligence y Analítica Estratégica</summary>
   <ul>
@@ -153,3 +129,217 @@
     <li>Inglés: C1</li>
   </ul>
 </details>
+
+
+<h3>Certificaciones</h3>
+
+<div class="certification-card">
+  <a href="https://learn.microsoft.com/en-gb/users/jennifersanchezrichart-1821/credentials/certification/azure-ai-fundamentals?tab=credentials-tab" target="_blank">
+    <img src="{{ '/assets/images/IA_Fundamental_Microsoft.png' | relative_url }}" alt="Azure AI Fundamentals">
+  </a>
+
+  <div>
+    <strong>Microsoft Certified: Azure AI Fundamentals</strong><br>
+    Certificación que valida conocimientos básicos de inteligencia artificial, machine learning y servicios de IA en Azure aplicados a negocio.
+  </div>
+</div>
+
+<div class="certification-card">
+  <a href="#" target="_blank">
+    <img src="{{ '/assets/images/PowerBI_Microsoft.png' | relative_url }}" alt="Power BI Data Analyst Associate">
+  </a>
+
+  <div>
+    <strong>Microsoft Certified: Power BI Data Analyst Associate</strong><br>
+    Certificación orientada al análisis de datos con Power BI, incluyendo modelado, visualización y generación de insights para la toma de decisiones.
+  </div>
+</div>
+
+<h3>Formación</h3>
+
+<style>
+  .education-section {
+    margin-top: 1em;
+  }
+
+  .education-year {
+    font-weight: 700;
+    font-size: 1.2em;
+    margin-top: 1.5em;
+  }
+
+  .education-list {
+    margin-top: 0.5em;
+    padding-left: 1.2em;
+  }
+
+  .education-list li {
+    margin-bottom: 0.6em;
+    line-height: 1.5;
+  }
+</style>
+
+<div class="education-section">
+
+  <div class="education-year">2026</div>
+  <ul class="education-list">
+    <li>
+      Creación, interpretación y comunicación de cuadros de mando con Tableau
+    </li>
+  </ul>
+
+  <div class="education-year">2024</div>
+  <ul class="education-list">
+    <li>
+      Máster Online en IA e Innovación – Founderz
+    </li>
+    <li>
+      Python con Power BI – Temixa
+    </li>
+    <li>
+      Desarrollo de Chatbots con Azure OpenAI – Platzi
+    </li>
+    <li>
+      Describir cómo crear aplicaciones con Microsoft Power Apps – Microsoft Learn
+    </li>
+    <li>
+      Describir el valor empresarial de Microsoft Power Platform – Microsoft Learn
+    </li>
+    <li>
+      Identificar los componentes fundamentales de Microsoft Power Platform – Microsoft Learn
+    </li>
+    <li>
+      Describe the AI authoring experience in Power Platform – Microsoft Learn
+    </li>
+    <li>
+      PL-900: Microsoft Power Platform Fundamentals – Microsoft Learn
+    </li>
+  </ul>
+
+</div>
+
+<h3>Formación</h3>
+
+<style>
+  .education-section {
+    margin-top: 1em;
+  }
+
+  .education-year {
+    font-weight: 700;
+    font-size: 1.2em;
+    margin-top: 1.5em;
+  }
+
+  .education-list {
+    margin-top: 0.5em;
+    padding-left: 1.2em;
+  }
+
+  .education-list li {
+    margin-bottom: 0.8em;
+    line-height: 1.5;
+  }
+
+  .education-list small {
+    color: #555;
+  }
+</style>
+
+<div class="education-section">
+
+  <div class="education-year">2026</div>
+  <ul class="education-list">
+    <li>
+      Creación, interpretación y comunicación de cuadros de mando con Tableau
+    </li>
+  </ul>
+
+  <div class="education-year">2025</div>
+  <ul class="education-list">
+    <li>
+      <strong>PL-200: Consultor de Power Platform</strong> – Experis Academy (Manpower Group)
+      <br><small>Diseño de soluciones empresariales, automatización de procesos y uso de Power Apps, Power Automate y Dataverse</small>
+    </li>
+  </ul>
+
+  <div class="education-year">2024</div>
+  <ul class="education-list">
+    <li>
+      <strong>Máster Online en IA e Innovación</strong> – Founderz  
+      <br><small>Formación en machine learning, IA generativa y aplicación en negocio</small>
+    </li>
+    <li>
+      Python con Power BI – Temixa
+    </li>
+    <li>
+      Desarrollo de Chatbots con Azure OpenAI – Platzi
+    </li>
+    <li>
+      Describir cómo crear aplicaciones con Microsoft Power Apps – Microsoft Learn
+    </li>
+    <li>
+      Describir el valor empresarial de Microsoft Power Platform – Microsoft Learn
+    </li>
+    <li>
+      Identificar los componentes fundamentales de Microsoft Power Platform – Microsoft Learn
+    </li>
+    <li>
+      Describe the AI authoring experience in Power Platform – Microsoft Learn
+    </li>
+    <li>
+      PL-900: Microsoft Power Platform Fundamentals – Microsoft Learn
+    </li>
+  </ul>
+
+</div>
+
+<h3>Últimos eventos asistidos</h3>
+
+<style>
+  .events-section {
+    margin-top: 1em;
+  }
+
+  .event-item {
+    margin-bottom: 0.8em;
+    line-height: 1.6;
+  }
+
+  .event-item strong {
+    font-weight: 600;
+  }
+
+  .event-year {
+    color: #777;
+    margin-left: 6px;
+  }
+</style>
+
+<div class="events-section">
+
+  <div class="event-item">
+    <strong>Data Saturdays Madrid</strong> <span class="event-year">2025</span>
+  </div>
+
+  <div class="event-item">
+    <strong>3ª Edición Expansión IA y Nuevas Tecnologías</strong> <span class="event-year">2025</span>
+  </div>
+
+  <div class="event-item">
+    <strong>Tech Show Madrid</strong> <span class="event-year">2025</span>
+  </div>
+
+  <div class="event-item">
+    <strong>VIII Jornada Juntas Contra el Cáncer – HM CIOCC</strong> <span class="event-year">2025</span>
+  </div>
+
+  <div class="event-item">
+    <strong>II Levin Summer Summit Madrid</strong> <span class="event-year">2025</span>
+  </div>
+
+  <div class="event-item">
+    <strong>La Brújula de la Competitividad Europea y su Impacto en el Ecosistema de Salud Español</strong> <span class="event-year">2025</span>
+  </div>
+
+</div>
