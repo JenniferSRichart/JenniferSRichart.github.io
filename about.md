@@ -62,9 +62,9 @@ key: page-about
   </div>
 
   <div class="about-photo">
-    <img src="{{ '[/assets/images/IMG_1101.png](https://github.com/...)' | relative_url }}">
-  </div>
+  <img src="{{ '/assets/images/IMG_1101.png' | relative_url }}" alt="Jennifer Sánchez Richart">
 </div>
+
 
 <h3>Certificaciones</h3>
 
