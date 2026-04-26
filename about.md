@@ -58,17 +58,11 @@ key: page-about
 
 <div class="about-container">
   <div class="about-text">
-    <p>Hola, soy <strong>Cristina Martínez</strong>, ingeniera química especializada en análisis de datos. Mi trayectoria combina una formación técnica rigurosa con una gran pasión por el poder transformador de los datos en el ámbito empresarial.</p>
-
-    <p>Me dedico a convertir información compleja en conocimiento accionable. A través del análisis exploratorio, la limpieza de datos y la construcción de dashboards claros y eficaces, ayudo a que equipos y organizaciones tomen decisiones mejor fundamentadas.</p>
-
-    <p>Trabajo habitualmente con herramientas como Python, SQL, Power BI y Excel, aplicando técnicas de ciencia de datos, automatización y visualización avanzada. Disfruto especialmente resolviendo problemas, optimizando procesos y extrayendo patrones significativos que generen valor real.</p>
-
-    <p>Mi enfoque combina pensamiento analítico, atención al detalle y una mentalidad orientada a resultados, con una motivación constante por seguir aprendiendo e innovando en el ámbito de los datos.</p>
+    <p>Hola, soy </strong>Jennifer Sánchez Richart</strong>. Trabajo con datos, pero sobre todo con decisiones. Mi enfoque va más allá del análisis técnico: busco entender el contexto, detectar oportunidades y transformar la información en estrategias que generen impacto real. Me interesa especialmente cómo la tecnología y los datos pueden impulsar cambios sostenibles en organizaciones y personas.</p>
   </div>
 
   <div class="about-photo">
-    <img src="{{ '/assets/images/cristina.png' | relative_url }}" alt="Cristina Martínez">
+    <img src="{{ '/assets/images/IMG_1101.png' | relative_url }}" alt="Jennifer Sánchez Richart">
   </div>
 </div>
 
@@ -76,15 +70,15 @@ key: page-about
 
 <div style="display:flex; align-items:center; gap:15px; margin-bottom:20px;">
   
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/CristinaMartnezGarca-0443/725310503143AC5B?sharingId=31FC82A51CA849AE" target="_blank">
+  <a href="(https://learn.microsoft.com/en-gb/users/jennifersanchezrichart-1821/credentials/certification/azure-ai-fundamentals?tab=credentials-tab)" target="_blank">
     <img src="{{ '/assets/images/Pl300-badge.png' | relative_url }}" 
-         alt="PL-300 Badge" 
+         alt="Microsoft Certified: Azure AI Fundamentals" 
          style="width:90px; height:auto;">
   </a>
 
   <div>
-    <strong>Microsoft Certified: Power BI Data Analyst (PL-300)</strong><br>
-    2026 – Certificación oficial de Microsoft en modelado de datos, DAX, visualización y Power BI Service.
+    <strong>Microsoft Certified: Azure AI Fundamentals</strong><br>
+    2025 – La certificación Microsoft Certified: Azure AI Fundamentals (AI-900) valida conocimientos básicos de inteligencia artificial y machine learning aplicados a negocio, junto con los principales servicios de IA en la nube de Azure. Es una certificación introductoria orientada a perfiles no técnicos que buscan entender cómo integrar la IA en la toma de decisiones empresariales.
   </div>
 
 </div>
