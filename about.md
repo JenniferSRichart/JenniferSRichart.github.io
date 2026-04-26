@@ -174,69 +174,6 @@
   }
 
   .education-list li {
-    margin-bottom: 0.6em;
-    line-height: 1.5;
-  }
-</style>
-
-<div class="education-section">
-
-  <div class="education-year">2026</div>
-  <ul class="education-list">
-    <li>
-      Creación, interpretación y comunicación de cuadros de mando con Tableau
-    </li>
-  </ul>
-
-  <div class="education-year">2024</div>
-  <ul class="education-list">
-    <li>
-      Máster Online en IA e Innovación – Founderz
-    </li>
-    <li>
-      Python con Power BI – Temixa
-    </li>
-    <li>
-      Desarrollo de Chatbots con Azure OpenAI – Platzi
-    </li>
-    <li>
-      Describir cómo crear aplicaciones con Microsoft Power Apps – Microsoft Learn
-    </li>
-    <li>
-      Describir el valor empresarial de Microsoft Power Platform – Microsoft Learn
-    </li>
-    <li>
-      Identificar los componentes fundamentales de Microsoft Power Platform – Microsoft Learn
-    </li>
-    <li>
-      Describe the AI authoring experience in Power Platform – Microsoft Learn
-    </li>
-    <li>
-      PL-900: Microsoft Power Platform Fundamentals – Microsoft Learn
-    </li>
-  </ul>
-
-</div>
-
-<h3>Formación</h3>
-
-<style>
-  .education-section {
-    margin-top: 1em;
-  }
-
-  .education-year {
-    font-weight: 700;
-    font-size: 1.2em;
-    margin-top: 1.5em;
-  }
-
-  .education-list {
-    margin-top: 0.5em;
-    padding-left: 1.2em;
-  }
-
-  .education-list li {
     margin-bottom: 0.8em;
     line-height: 1.5;
   }
