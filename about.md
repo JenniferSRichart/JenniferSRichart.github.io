@@ -71,7 +71,7 @@ key: page-about
 <div style="display:flex; align-items:center; gap:15px; margin-bottom:20px;">
   
   <a href="(https://learn.microsoft.com/en-gb/users/jennifersanchezrichart-1821/credentials/certification/azure-ai-fundamentals?tab=credentials-tab)" target="_blank">
-    <img src="{{ '/assets/images/Pl300-badge.png' | relative_url }}" 
+    <img src="{{ '/assets/images/Screenshot 2026-04-26 at 22.45.49.png' | relative_url }}" 
          alt="Microsoft Certified: Azure AI Fundamentals" 
          style="width:90px; height:auto;">
   </a>
