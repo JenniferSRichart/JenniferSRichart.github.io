@@ -58,7 +58,7 @@ key: page-about
 
 <div class="about-container">
   <div class="about-text">
-    <p>Hola, soy </strong>Jennifer Sánchez Richart</strong>. Trabajo con datos, pero sobre todo con decisiones. Mi enfoque va más allá del análisis técnico: busco entender el contexto, detectar oportunidades y transformar la información en estrategias que generen impacto real. Me interesa especialmente cómo la tecnología y los datos pueden impulsar cambios sostenibles en organizaciones y personas.</p>
+    <p>Hola, soy </strong> Jennifer Sánchez Richart </strong>. Trabajo con datos, pero sobre todo con decisiones. Mi enfoque va más allá del análisis técnico: busco entender el contexto, detectar oportunidades y transformar la información en estrategias que generen impacto real. Me interesa especialmente cómo la tecnología y los datos pueden impulsar cambios sostenibles en organizaciones y personas.</p>
   </div>
 
   <div class="about-photo">
