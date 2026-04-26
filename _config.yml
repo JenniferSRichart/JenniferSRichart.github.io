@@ -18,9 +18,9 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : "https://cristina-mg.github.io" # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : "https://jennifersrichart.github.io" # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : "" # does not include hostname
-title   : CRISTINA MARTINEZ GARCIA
+title   : Jennifer Sanchez Richart
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
@@ -44,13 +44,13 @@ timezone: Europe/Madrid
 # Información del autor
 author:
   type: person
-  name: Cristina Martínez García
-  url: https://cristina-mg.github.io
+  name: Jennifer Sanchez Richart
+  url: https://jennifersrichart.github.io
   avatar: /assets/images/avatar.png
   bio: Analista de datos especializada en dashboards e inteligencia de negocio.
-  email: cmzgar@gmail.com
-  linkedin: cristina-martínez-garcía-data
-  github: Cristina-MG
+  email: jennifer@sanchez-richart.com
+  linkedin: https://www.linkedin.com/in/jennifersanchezrichart/
+  github: JenniferSRichart
 
 # Enlaces internos
 paths:
