@@ -61,8 +61,8 @@ key: page-about
     <p>Hola, soy Jennifer Sánchez Richart. Trabajo con datos, pero sobre todo con decisiones. Mi enfoque va más allá del análisis técnico: busco entender el contexto, detectar oportunidades y transformar la información en estrategias que generen impacto real. Me interesa especialmente cómo la tecnología y los datos pueden impulsar cambios sostenibles en organizaciones y personas.</p>
   </div>
 
-  <div class="about-photo">
-  <img src="{{ '/assets/images/IMG_1101.png' | relative_url }}" alt="Jennifer Sánchez Richart">
+<div class="about-photo">
+  <img src="https://raw.githubusercontent.com/JenniferSRichart/JenniferSRichart.github.io/main/assets/images/IMG_1101.png" alt="Jennifer Sánchez Richart">
 </div>
 
 
